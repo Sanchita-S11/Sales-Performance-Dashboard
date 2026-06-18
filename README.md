@@ -1,4 +1,4 @@
-<img width="2075" height="1200" alt="Sales data dashboard_page-0002" src="https://github.com/user-attachments/assets/e1d5ce68-3243-42ab-88c9-811bce2d75b4" /># Sales Performance Dashboard
+# Sales Performance Dashboard
 
 ## Project Overview
 This Power BI project analyzes sales performance, customer behavior, product profitability, and regional trends.
